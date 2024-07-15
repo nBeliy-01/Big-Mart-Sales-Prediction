@@ -1,5 +1,5 @@
 # Big Mart Sales Prediction Using XGBRegressor
-This repository contains a Jupyter Notebook for predicting sales in different outlets of a big mart using machine learning techniques, specifically the XGBRegressor model. This notebook received 43rd place at the <a href="[https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor](https://www.kaggle.com/competitions/ml-competition-2024-for-ukrainians/leaderboard)" target="_blank">Machine Learning Competition</a> model and get RMSLE error score 0.70165
+This repository contains a Jupyter Notebook for predicting sales in different outlets of a big mart using machine learning techniques, specifically the XGBRegressor model. This notebook received 43rd place at the <a href="https://www.kaggle.com/competitions/ml-competition-2024-for-ukrainians/leaderboard" target="_blank">Machine Learning Competition</a> and model get RMSLE error score 0.70165
 
 ### Here are some points for better understaning
 <ul>
